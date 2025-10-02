@@ -1,0 +1,9 @@
+{
+    "@@locale": "ar",
+    "appTitle": "محفظة بركة",
+    "netValue": "صافي القيمة",
+    "pnlPercentage": "الربح/الخسارة (النسبة المئوية)",
+    "positionTicker": "الأداة: الرمز",
+    "positionPnl": "المركز: ر/خ (٪ ر/خ)",
+    "positionMarketValue": "المركز: القيمة السوقية"
+}

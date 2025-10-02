@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "appTitle": "Baraka Portfolio",
+  "netValue": "Net Value",
+  "pnlPercentage": "PnL (PnL %)",
+  "positionTicker": "Instrument: Ticker",
+  "positionPnl": "Position: PnL (PnL %)",
+  "positionMarketValue": "Position: Market Value"
+}

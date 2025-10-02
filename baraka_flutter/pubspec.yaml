@@ -48,6 +48,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: ^0.18.1
+  equatable: ^2.0.5
 
 dev_dependencies:
   flutter_test:
@@ -63,12 +64,16 @@ dev_dependencies:
   # Code generation (for injectable, freezed, etc.)
   build_runner: ^2.4.6
   injectable_generator: ^2.4.1
+flutter_intl:
+  enabled: true
+  class_name: AppLocalizations
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
 flutter:
+  generate: true
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
