@@ -9,7 +9,7 @@ This project uses several packages, for more info look pubspec.yaml
 
 # Installation:
 1. Simply extract the code from .zip file or clone it from the repository
-2. Run these commands :
+2. Run these commands : ( Make sure to navigate in baraka_flutter dir ) 
 - flutter pub get
 - flutter gen-l10n
 - flutter pub run build_runner build --delete-conflicting-outputs
